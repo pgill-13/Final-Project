@@ -1,0 +1,5 @@
+C:\Users\User1\Source\Repos\Final-Project\Csharp102Project\bin\Debug\Csharp102Project.exe.config
+C:\Users\User1\Source\Repos\Final-Project\Csharp102Project\bin\Debug\Csharp102Project.exe
+C:\Users\User1\Source\Repos\Final-Project\Csharp102Project\bin\Debug\Csharp102Project.pdb
+C:\Users\User1\Source\Repos\Final-Project\Csharp102Project\obj\Debug\Csharp102Project.exe
+C:\Users\User1\Source\Repos\Final-Project\Csharp102Project\obj\Debug\Csharp102Project.pdb
